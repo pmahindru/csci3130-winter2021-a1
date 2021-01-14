@@ -47,7 +47,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             alert_answer.create();
             alert_answer.show();
         }
-
-
     }
 }
